@@ -1,0 +1,4 @@
+# dsh-custom-profile bundle patch: 一行宿主插件，浏览器半边由 dsh.client 自动加载。
+- insert:
+    - id: dsh-custom-profile
+      name: 'dsh-custom-profile'
